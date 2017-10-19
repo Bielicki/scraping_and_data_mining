@@ -1,2 +1,1 @@
-# web_scraping
-Website scrape with BeautifulSoup and analize with Pandas 
+# Web scraping and data mining portfolio
